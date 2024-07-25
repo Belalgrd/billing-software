@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/billing-software/static/css/main.29614b66.css",
+    "main.js": "/billing-software/static/js/main.62a3860c.js",
+    "static/js/453.04b415ce.chunk.js": "/billing-software/static/js/453.04b415ce.chunk.js",
+    "index.html": "/billing-software/index.html",
+    "main.29614b66.css.map": "/billing-software/static/css/main.29614b66.css.map",
+    "main.62a3860c.js.map": "/billing-software/static/js/main.62a3860c.js.map",
+    "453.04b415ce.chunk.js.map": "/billing-software/static/js/453.04b415ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29614b66.css",
+    "static/js/main.62a3860c.js"
+  ]
+}
